@@ -1,0 +1,9 @@
+﻿@using Sm.Crm.Application.Dtos
+<h1>CRM API Titles</h1>
+@foreach (TitleDto item in ViewBag.Titles)
+{
+    <li>@item.Name</li>
+}
+
+
+<img src="https://localhost:8080/api/customers/DownloadProfileImage?fileName=default.jpg" />

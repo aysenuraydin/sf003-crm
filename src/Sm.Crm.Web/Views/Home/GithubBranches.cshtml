@@ -1,0 +1,6 @@
+﻿@using Sm.Crm.Web.Controllers
+<h1>GitHub API Branches</h1>
+@foreach (GitHubBranch item in ViewBag.Branches)
+{
+    <li>@item.Name</li>
+}
