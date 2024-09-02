@@ -1,4 +1,4 @@
-﻿# Siliconmade Academy CRM Projesi
+﻿# CRM Projesi
 
 Bu proje ile örnek bir CRM projesi gerçekleştirilecektir.
 
